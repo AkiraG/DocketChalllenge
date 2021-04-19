@@ -7,7 +7,7 @@ Extrair informações do documento CNH(Carteira Nacional de Habilitação) utili
 
 [Notebook Explicativo](https://github.com/AkiraG/DocketChalllenge/blob/main/jupyter/Docket%20CNH.ipynb)
 
-Caso veja necessário rodar novamente o notebook explicativo, deverá instalar a [Object Detection Tensorflow API](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html)
+Caso seja necessário rodar novamente o notebook explicativo, deverá instalar a [Object Detection Tensorflow API](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html)
 
 
 ## Script
