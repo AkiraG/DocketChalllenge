@@ -11,11 +11,11 @@ Caso veja necessário rodar novamente o notebook explicativo, deverá instalar a
 
 
 ## Script
-Eu encapsulei a aplicação em um script denominado find_cpf.py que recebe um argumento --imageDir, esse busca todas as imagens *(.jpg|.jpeg|.png)* no diretório informado e retorna o nome da imagem com o cpf
+Eu encapsulei a aplicação em um script denominado cpf_find.py que recebe um argumento --imageDir, esse busca todas as imagens *(.jpg|.jpeg|.png)* no diretório informado e retorna o nome da imagem com o cpf
 
 Exemplo:
 ```
-python find_cpf.py --imageDir path/to/images
+python cpf_find.py --imageDir path/to/images
 ```
 Retorno no prompt
 
