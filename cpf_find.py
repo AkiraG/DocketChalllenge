@@ -4,7 +4,6 @@ import cv2 as cv
 import re
 import argparse
 import pytesseract as ocr
-import tqdm
 
 import os
 import warnings
