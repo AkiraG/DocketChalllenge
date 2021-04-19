@@ -1,4 +1,5 @@
-# DocketChalllenge
+# DocketChalllenge [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-388/)
+
 
 ## Proposta
 Extrair informações do documento CNH(Carteira Nacional de Habilitação) utilizando processamento de imagem e/ou processamento de texto.
@@ -29,5 +30,7 @@ Além de instalar as depêndencias contidas no arquivo ```requirements.txt```, �
 ```
 apt-get install tesseract-ocr-por
 ```
+
+Porém existe uma versão para Windows10 do tesseract neste [tutorial](https://medium.com/quantrium-tech/installing-and-using-tesseract-4-on-windows-10-4f7930313f82)
 
 
